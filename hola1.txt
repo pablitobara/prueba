@@ -1,1 +1,2 @@
-Modificando
+Modificandogit add .
+Modificar 2git add 
